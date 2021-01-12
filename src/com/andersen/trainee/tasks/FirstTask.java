@@ -1,6 +1,7 @@
 /*
 Составить алгоритм: если введенное число больше 7, то вывести “Привет”
 */
+
 package com.andersen.trainee.tasks;
 
 import java.util.Scanner;
